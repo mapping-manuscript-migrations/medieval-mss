@@ -592,7 +592,17 @@
                 <!--<place type="settlement" xml:id="place_7028492">
                     <placeName  type="index" source="TGN">Ketteringham</placeName></place> -->
                 
+                <place type="settlement" xml:id="place_1042118">
+                    <placeName type="index" source="TGN">Mýkonos </placeName>
+                </place>
                 
+                <place type="settlement" xml:id="place_1042229">
+                    <placeName type="index" source="TGN">Tínos </placeName>
+                </place>
+                
+                <place type="settlement" xml:id="place_7011283">
+                    <placeName type="index" source="TGN">Puddletown</placeName>
+                </place>
                 
                 <place type="settlement" xml:id="place_7018924">
                     <placeName type="index" source="TGN">Lewisham</placeName>
@@ -606,9 +616,6 @@
                     <placeName type="index" source="TGN">Andover</placeName>
                 </place>
                 
-                <place type="settlement" xml:id="place_7008161">
-                    <placeName type="index" source="TGN">Bordeaux</placeName>
-                </place>
                 
                 <place type="settlement" xml:id="place_1034633">
                     <placeName type="index" source="TGN">Nesle (Hauts-de-France)</placeName>
@@ -9132,6 +9139,49 @@
                 </head>
                 
                 <!-- new -->
+                
+                <org xml:id="org_251338225">
+                    <orgName type="display" source="viaf">Muchelney, <affiliation>Benedictine</affiliation> abbey</orgName>
+                    <note type="links">
+                        <list type="links">
+                            <item><ref target="http://viaf.org/viaf/251338225"><title>VIAF</title></ref></item>
+                        </list>
+                        <!--<list type="links">
+                            <item><ref target="http://viaf.org/viaf/135337488"><title>VIAF</title></ref></item>
+                        </list>-->
+                    </note>
+                </org>
+                
+                <org xml:id="org_122726162">
+                    <orgName type="display" source="bold">Rome, Collegium Romanum Societatis Jesu</orgName>
+                </org>
+                
+                <org xml:id="org_140790558">
+                    <orgName type="display" source="cul">Cambridge University, Library</orgName>
+                </org>
+                
+                
+                <org xml:id="org_135319659">
+                    <orgName type="display" source="bodl">Erfurt, Benedictine abbey of SS Peter and Paul</orgName>
+                    <orgName type="variant" source="http://klosterdatenbank.germania-sacra.de/gsn/776">Benediktinerkloster St. Peter, Erfurt (zuvor Kollegiatstift)</orgName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://klosterdatenbank.germania-sacra.de/gsn/776">
+                                    <title>Germania Sacra</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </org>
+                
+                <org xml:id="org_247467479">
+                    <orgName type="display" source="bodl">Netley, <affiliation>Cistercian</affiliation> abbey</orgName>
+                    <location source="https://en.wikipedia.org/wiki/Netley_Abbey">
+                        <geo>50.879, -1.357</geo>
+                    </location>
+                    <note>Co-ordinates from Wikipedia</note>
+                </org>
                 
                 <org xml:id="org_158803227">
                     <orgName type="display" source="bodl">Jumièges, <affiliation>Benedictine</affiliation> abbey of Saint-Pierre</orgName>
@@ -19627,7 +19677,19 @@
                 <org xml:id="org_220044785">
                     <orgName type="display" source="bodl">Rouen, cathedral</orgName>
                 </org>
+                
+                <org xml:id="org_155945511">
+                    <orgName type="display" source="bodl">Würzburg, University Library (Universitätsbibliothek)</orgName>
+                </org>
                
+                <org xml:id="org_271051505">
+                    <orgName type="display" source="bodl">Ranshofen, Augustinian priory</orgName>
+                </org>
+                
+                <org xml:id="org_135843477">
+                    <orgName type="display" source="bodl">Salzburg, Benedictine abbey of St Peter</orgName>
+                </org>
+                
                 <!-- the following 'VIAF' entries are problematic (e.g. contain incorrect merges) and should not be altered or (yet) given VIAF refs: -->
                
                 
@@ -20588,6 +20650,19 @@
                     <orgName type="display" source="bodl">Würzburg, Dominican convent</orgName>
                     <orgName type="variant">Dominikanerkloster Würzburg</orgName>
                     <!-- not in Germania sacra -->
+                </org>
+                
+                <org xml:id="org_180">
+                    <orgName type="display" source="bodl">Bruges, church of St Mary Magdalen near</orgName>
+                    <!-- not identified; Broxb. 89.4 ; had a confraternity and an altar of S Alexis; check? -->
+                </org>
+                
+                <org xml:id="org_181">
+                    <orgName type="display" source="bodl">Littlemore, Oxfordshire, <affiliation>Benedictine nunnery</affiliation></orgName>
+                </org>
+                
+                <org xml:id="org_182">
+                    <orgName type="display" source="bodl">Dorchester, abbey of <affiliation>Arrouaisian Canons</affiliation></orgName>
                 </org>
                 
             </listOrg>

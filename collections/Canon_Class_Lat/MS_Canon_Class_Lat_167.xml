@@ -98,7 +98,7 @@
                <provenance notBefore="1727" notAfter="1805" resp="#MMM"><persName role="fmo" key="person_2384880">Matteo Luigi Canonici, 1727-1805</persName></provenance><provenance notAfter="1807" resp="#MMM"><persName role="fmo" key="person_446">Giuseppe Canonici , -1807</persName></provenance><acquisition when="1817" resp="#MMM">Purchased by the Bodleian in 1817</acquisition></history>
                <additional><adminInfo>
                      <recordHist>
-                        <source>Summary description by Elizabeth Solopova and Matthew Holford, based on the Quarto Catalogue (H. O. Coxe,  <title>Catalogi codicum manuscriptorum Bibliothecæ Bodleianæ pars tertia codices Græcos et Latinos Canonicianos complectens</title>, Quarto Catalogues III, 1854) and supplementary sources. 
+                        <source><ref target="https://medieval.bodleian.ox.ac.uk/about">Summary description</ref> abbreviated from the Quarto Catalogue (H. O. Coxe,  <title>Catalogi codicum manuscriptorum Bibliothecæ Bodleianæ pars tertia codices Græcos et Latinos Canonicianos complectens</title>, Quarto Catalogues III, 1854). Decoration, localization and date follow Pächt and Alexander (1970). 
                             
                            
                            
@@ -110,7 +110,7 @@
                            </listBibl>
                         </source>
                      </recordHist>
-                  </adminInfo><surrogates><bibl type="digital-fascimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/756bac87-9f6e-405c-8629-37661c747a32"><title>Digital Bodleian</title> <note>(full digital facsimile)</note></ref></bibl><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/45ee835c-84d5-4104-a19d-bab2872dc200"><title>Digital Bodleian</title></ref> <note>(3 images from 35mm slides)</note></bibl></surrogates></additional>
+                  </adminInfo><surrogates><bibl type="digital-facsimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/756bac87-9f6e-405c-8629-37661c747a32"><title>Digital Bodleian</title> <note>(full digital facsimile)</note></ref></bibl><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/45ee835c-84d5-4104-a19d-bab2872dc200"><title>Digital Bodleian</title></ref> <note>(3 images from 35mm slides)</note></bibl></surrogates></additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>       

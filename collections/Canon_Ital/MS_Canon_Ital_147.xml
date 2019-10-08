@@ -94,7 +94,7 @@
                <provenance notBefore="1727" notAfter="1805" resp="#MMM"><persName role="fmo" key="person_2384880">Matteo Luigi Canonici, 1727-1805</persName></provenance><provenance notAfter="1807" resp="#MMM"><persName role="fmo" key="person_446">Giuseppe Canonici , -1807</persName></provenance><acquisition when="1817" resp="#MMM">Purchased by the Bodleian in 1817</acquisition></history>
                <additional><adminInfo>
                      <recordHist>
-                        <source>Summary description by Elizabeth Solopova and Matthew Holford, based on the Quarto Catalogue (A. Mortara,  <title>Catalogo dei manoscritti italiani che sotto la denominazione di Codici Canoniciani Italici si conservano nella Biblioteca Bodleiana a Oxford</title>, Quarto Catalogues XI, 1864) and supplementary sources. 
+                        <source><ref target="https://medieval.bodleian.ox.ac.uk/about">Summary description</ref> abbreviated from the Quarto Catalogue (A. Mortara,  <title>Catalogo dei manoscritti italiani che sotto la denominazione di Codici Canoniciani Italici si conservano nella Biblioteca Bodleiana a Oxford</title>, Quarto Catalogues XI, 1864).  
                             
                             
                             <listBibl>
@@ -104,7 +104,7 @@
                            </listBibl>
                         </source>
                      </recordHist>
-                  </adminInfo><surrogates><bibl type="digital-fascimile" subtype="full"><ref target="http://freimore.uni-freiburg.de/receive/DocPortal_document_00014526"><title>Freiburger Multimedia Object Repository</title></ref> <note>(full facsimile, grayscale)</note></bibl></surrogates><listBibl type="WRAPPER"><listBibl type="INTERNET"><head>Online resources:</head><bibl><ref target="http://jonas.irht.cnrs.fr/manuscrit/40109"><title>JONAS: Répertoire des textes et des manuscrits médiévaux d'oc et d'oïl</title></ref><note>(empty entry)</note></bibl></listBibl></listBibl></additional>
+                  </adminInfo><surrogates><bibl type="digital-facsimile" subtype="full"><ref target="http://freimore.uni-freiburg.de/receive/DocPortal_document_00014526"><title>Freiburger Multimedia Object Repository</title></ref> <note>(full facsimile, grayscale)</note></bibl></surrogates><listBibl type="WRAPPER"><listBibl type="INTERNET"><head>Online resources:</head><bibl><ref target="http://jonas.irht.cnrs.fr/manuscrit/40109"><title>JONAS: Répertoire des textes et des manuscrits médiévaux d'oc et d'oïl</title></ref><note>(empty entry)</note></bibl></listBibl></listBibl></additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>       
